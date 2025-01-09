@@ -4,9 +4,7 @@ SMS classification system based on natural language processing techniques,
 using several popular classification models:
 
   1-Naive Bayes Classifier
-  
   2-SVM (Support Vector Machine)
-  
   3-ANN (Artificial Neural Network)
 
 The system development stages were divided into 5 basic stages:
