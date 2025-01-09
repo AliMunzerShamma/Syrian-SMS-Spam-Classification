@@ -1,7 +1,8 @@
 # Syrian-SMS-Spam-Classification
 SMS classification system based on natural language processing techniques,
 
-using several popular classification models:\n
+using several popular classification models:
+
   1-Naive Bayes Classifier
   2-SVM (Support Vector Machine)
   3-ANN (Artificial Neural Network)
